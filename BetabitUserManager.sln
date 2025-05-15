@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetabitUserManager.Domain",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetabitUserManager.Infrastructure", "BetabitUserManager.Infrastructure\BetabitUserManager.Infrastructure.csproj", "{47E75B5D-B349-4A04-ACCB-81173AF80307}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetabitUserManager.UseCases", "..\BetabitUserManager.UseCases\BetabitUserManager.UseCases.csproj", "{BE6BAFF7-03E4-43C8-9BA5-33B8028AE6AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetabitUserManager.UseCases", "BetabitUserManager.UseCases\BetabitUserManager.UseCases.csproj", "{BE6BAFF7-03E4-43C8-9BA5-33B8028AE6AF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 	ProjectSection(SolutionItems) = preProject
