@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Betabit-user-manager\BetabitUserManager.Domain\BetabitUserManager.Domain.csproj" />
+    <ProjectReference Include="..\BetabitUserManager.Domain\BetabitUserManager.Domain.csproj" />
   </ItemGroup>
 
 </Project>

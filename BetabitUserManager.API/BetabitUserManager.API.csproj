@@ -20,9 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BetabitUserManager.UseCases\BetabitUserManager.UseCases.csproj" />
     <ProjectReference Include="..\BetabitUserManager.Domain\BetabitUserManager.Domain.csproj" />
     <ProjectReference Include="..\BetabitUserManager.Infrastructure\BetabitUserManager.Infrastructure.csproj" />
+    <ProjectReference Include="..\BetabitUserManager.UseCases\BetabitUserManager.UseCases.csproj" />
   </ItemGroup>
 
 </Project>
